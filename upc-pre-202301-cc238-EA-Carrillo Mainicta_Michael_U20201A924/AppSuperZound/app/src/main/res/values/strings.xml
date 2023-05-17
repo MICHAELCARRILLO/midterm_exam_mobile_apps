@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppSuperZound</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_icon_content">FavoriteIcon</string>
+    <string name="album_score_description">Album Score</string>
+    <string name="delete_icon_description">Delete Icon</string>
+    <string name="album_image_description">Album Image</string>
+    <string name="app_name_text">App Super Zound</string>
+</resources>
